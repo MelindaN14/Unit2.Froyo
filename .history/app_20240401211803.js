@@ -10,7 +10,4 @@ const flavors = userInput.split(",");
 const flavorCount = {};
 
 //Loop used to iterate the the array of flavors
-for (let i = 0; i < flavors.length; i++)
-{
-    
-}
+for ()
